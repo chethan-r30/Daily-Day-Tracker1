@@ -20,11 +20,7 @@
 ### 🚀 Your all-in-one personal productivity companion
 *Track activities · Crush workouts · Study smarter · Manage time · Learn daily*
 
-<br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Website-Click_Here-01696f?style=for-the-badge)](______________________PASTE_YOUR_LINK_HERE______________________)
-
-<br/>
 
 </div>
 
