@@ -271,8 +271,8 @@ Open your browser and visit → **http://localhost:3000**
 
 | Method | Endpoint | Description | Auth |
 |--------|----------|-------------|------|
-| `POST` | `/api/auth/register` | Register new user | ❌ |
-| `POST` | `/api/auth/login` | Login user | ❌ |
+| `POST` | `/api/auth/register` | Register new user | ✅  |
+| `POST` | `/api/auth/login` | Login user | ✅  |
 | `GET` | `/api/auth/profile` | Get user profile | ✅ |
 | `GET` | `/api/activities` | Get all activities | ✅ |
 | `POST` | `/api/activities` | Create activity | ✅ |
